@@ -1,4 +1,5 @@
-commit 2 > changing foo.txt
+commit 2 > changing foo.txt hannah
 
+hannah 
 
 from feature branch
