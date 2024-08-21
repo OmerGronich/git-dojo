@@ -1,1 +1,4 @@
 commit 2 > changing foo.txt
+
+
+from feature branch
